@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This repository contains a complete pipeline for **semantic segmentation** of road cracks using **DeepLabV3 with ResNet50** backbone, leveraging **transfer learning** with PyTorch.  
+This repository contains a complete pipeline for **semantic segmentation** of cracks using **DeepLabV3 with ResNet50** backbone, leveraging **transfer learning** with PyTorch.  
 The model is trained on a custom cracks dataset with binary labels (Background and Crack regions).
 
 ## 📋 What's Included?
